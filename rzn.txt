@@ -2,5 +2,3 @@ gigi1
 
 vivi
 
-lll
-;llk
